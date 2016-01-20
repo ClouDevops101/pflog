@@ -16,9 +16,6 @@ curl http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt > /etc/pf-f
 
 
 pfctl -ef /etc/pf.conf
-
-
-
-
+# critical commande
 ifconfig pflog0 create
 /usr/sbin/tcpdump -lnettti pflog0 | /usr/bin/logger -t pf -p local2.info
