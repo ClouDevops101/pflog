@@ -1,7 +1,7 @@
 Underconstruction
 =============
 
-Handbrank.sh Command line interface for compressing mkv and mp4 video file to m4v/aac Appletv ios video format
+pflog.sh Command line interface for compressing mkv and mp4 video file to m4v/aac Appletv ios video format
 
 ![HandBrake](https://handbrake.fr/img/logo.png)
 
