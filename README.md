@@ -2,7 +2,7 @@
  [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WX4EKLLLV49WG)
   
 
-Underconstruction
+Set up a pf Firwall BSD / Mac OS X country filtring IPv4/IPv6 
 =============
 
 pflog.sh Command line interface for compressing mkv and mp4 video file to m4v/aac Appletv ios video format
